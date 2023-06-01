@@ -1,0 +1,13 @@
+# Unreal Engine Project Gitignore
+
+# Exclude DerivedDataCache directory
+DerivedDataCache/
+
+# Exclude Intermediate directory
+Intermediate/
+
+# Exclude Platforms directory
+Platforms/
+
+# Exclude Saved directory
+Saved/
