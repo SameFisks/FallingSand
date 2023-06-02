@@ -11,3 +11,10 @@ Platforms/
 
 # Exclude Saved directory
 Saved/
+
+# Exclude Binaries directory
+Binaries/
+
+# Exclude . directory
+.idea/
+.vs/
